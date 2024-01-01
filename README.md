@@ -1,19 +1,37 @@
 ## 프로젝트 소개
 온라인으로 책을 구매할 수 있는 사이트 제작
 
-## 기획서
-
-## 사용플러그인
-
 ## 풀스택 프로젝트 
 #### 프론트엔드 https://foxproject-257d5.web.app/ (배포용 주소)
- - 1차 프로젝트(06.28) : HTML5 와 CSS3로만 웹사이트 구현하기.
+ - 개발환경 : HTML5, CSS3, JavaScript, React, VS Code, 비동기(ajax)통신 : Axios
 
+ - 1차 프로젝트(06.28) : HTML5 와 CSS3로만 웹사이트 구현하기.
+  
  - 2차 프로젝트(08.23) : 1차 프로젝트 결과물에 React를 적용시켜서 구현하기
 
+            Mock Data를 활용해서 사이트 구현
+
+            props와 state를 사용해서 Data 전달
+   
+
 #### 백엔드
+ - 개발환경 : Java, Maven, servlet, Spring Boot, JPA, JSP, DB(MySQL), eclips
+
  - 3차 프로젝트(12.20) : 프론트엔드 프로젝트와 서버 연결. DB연동. 기능구현.
 
+            Spring Boot, JPA를 사용해서 서버 구축
+
+            DB생성. 서버에 DB연동 (MySQL 사용)
+
+            MVC : 사용자 페이지 : React
+
+               관리자 페이지 : JSP
+  
+            비동기(Ajax) 통신 구현 : Axios
+
+            프론트엔드 Mock Data를 DB로 교체. 
+
+            React에서 Server로 Axios 요청
 
 ## 작업 히스토리
 ### 1차 프로젝트
