@@ -41,6 +41,10 @@ function CustomerServiceMailInquiresRegister() {
             });
     }
 
+    function handleCancelButtonClick(e) {
+        alert("나갑니다");
+    }
+
     return (
         <div className='customer_service_mail_inquires'>
             <h2 className="inquires">1:1 문의하기</h2>
@@ -98,7 +102,7 @@ function CustomerServiceMailInquiresRegister() {
                         </table>
                         <div className="component_btn">
                             <button className="btn_submit" type="submit" id="btnsubmit" onClick={handleButtonClick} disabled={inquiryRegisterButton}>등록하기</button>
-                            <button className="btn_cencel" type="reset" id="btncencel">취소하기</button>
+                            <button className="btn_cencel" type="reset" id="btncencel" onClick={handleCancelButtonClick}>취소하기</button>
                         </div >
                     </figure>
                 </form>
