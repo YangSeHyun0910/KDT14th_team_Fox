@@ -1,9 +1,16 @@
 ## 프로젝트 소개
 온라인으로 책을 구매할 수 있는 사이트 제작
 
+## 구성원
+4인 (팀원 역할)
+
+## 맡은 파트, 기여도
+메인 페이지, 검색창, 고객센터(게시판, 1:1문의), 쿠폰
+맡은 파트의 기여도 100%
+
 ## 풀스택 프로젝트 
 #### 프론트엔드 https://foxproject-257d5.web.app/ (배포용 주소)
- - 개발환경 : HTML5, CSS3, JavaScript, React, VS Code, 비동기(ajax)통신 : Axios
+ - 개발환경 : JavaScript, React, VS Code, 비동기(ajax)통신 : Axios
 
  - 1차 프로젝트(06.28) : HTML5 와 CSS3로만 웹사이트 구현하기.
   
